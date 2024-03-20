@@ -1,0 +1,2972 @@
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201010000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201010000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201010100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201010100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201010200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201010200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201010300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201010300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201010400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201010400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201010500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201010500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201010600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201010600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201010700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201010700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201010800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201010800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201010900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201010900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201011000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201011000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201011100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201011100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201011200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201011200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201011300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201011300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201011400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201011400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201011500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201011500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201011600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201011600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201011700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201011700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201011800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201011800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201011900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201011900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201012000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201012000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201012100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201012100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201012200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201012200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201012300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201012300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201012400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201020000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201020000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201020000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201020100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201020100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201020200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201020200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201020300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201020300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201020400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201020400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201020500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201020500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201020600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201020600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201020700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201020700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201020800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201020800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201020900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201020900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201021000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201021000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201021100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201021100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201021200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201021200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201021300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201021300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201021400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201021400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201021500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201021500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201021600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201021600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201021700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201021700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201021800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201021800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201021900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201021900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201022000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201022000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201022100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201022100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201022200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201022200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201022300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201022300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201022400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201030000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201030000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201030000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201030100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201030100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201030200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201030200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201030300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201030300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201030400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201030400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201030500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201030500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201030600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201030600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201030700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201030700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201030800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201030800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201030900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201030900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201031000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201031000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201031100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201031100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201031200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201031200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201031300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201031300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201031400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201031400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201031500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201031500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201031600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201031600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201031700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201031700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201031800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201031800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201031900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201031900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201032000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201032000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201032100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201032100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201032200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201032200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201032300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201032300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201032400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201040000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201040000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201040000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201040100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201040100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201040200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201040200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201040300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201040300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201040400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201040400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201040500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201040500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201040600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201040600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201040700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201040700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201040800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201040800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201040900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201040900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201041000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201041000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201041100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201041100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201041200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201041200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201041300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201041300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201041400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201041400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201041500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201041500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201041600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201041600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201041700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201041700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201041800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201041800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201041900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201041900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201042000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201042000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201042100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201042100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201042200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201042200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201042300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201042300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201042400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201050000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201050000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201050000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201050100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201050100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201050200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201050200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201050300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201050300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201050400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201050400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201050500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201050500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201050600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201050600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201050700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201050700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201050800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201050800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201050900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201050900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201051000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201051000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201051100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201051100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201051200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201051200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201051300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201051300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201051400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201051400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201051500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201051500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201051600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201051600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201051700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201051700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201051800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201051800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201051900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201051900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201052000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201052000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201052100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201052100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201052200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201052200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201052300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201052300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201052400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201060000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201060000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201060000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201060100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201060100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201060200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201060200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201060300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201060300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201060400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201060400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201060500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201060500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201060600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201060600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201060700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201060700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201060800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201060800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201060900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201060900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201061000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201061000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201061100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201061100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201061200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201061200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201061300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201061300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201061400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201061400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201061500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201061500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201061600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201061600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201061700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201061700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201061800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201061800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201061900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201061900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201062000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201062000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201062100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201062100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201062200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201062200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201062300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201062300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201062400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201070000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201070000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201070000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201070100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201070100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201070200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201070200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201070300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201070300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201070400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201070400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201070500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201070500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201070600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201070600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201070700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201070700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201070800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201070800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201070900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201070900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201071000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201071000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201071100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201071100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201071200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201071200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201071300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201071300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201071400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201071400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201071500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201071500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201071600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201071600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201071700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201071700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201071800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201071800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201071900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201071900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201072000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201072000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201072100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201072100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201072200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201072200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201072300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201072300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201072400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201080000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201080000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201080000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201080100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201080100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201080200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201080200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201080300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201080300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201080400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201080400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201080500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201080500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201080600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201080600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201080700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201080700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201080800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201080800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201080900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201080900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201081000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201081000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201081100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201081100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201081200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201081200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201081300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201081300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201081400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201081400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201081500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201081500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201081600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201081600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201081700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201081700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201081800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201081800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201081900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201081900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201082000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201082000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201082100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201082100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201082200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201082200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201082300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201082300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201082400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201090000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201090000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201090000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201090100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201090100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201090200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201090200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201090300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201090300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201090400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201090400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201090500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201090500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201090600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201090600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201090700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201090700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201090800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201090800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201090900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201090900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201091000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201091000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201091100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201091100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201091200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201091200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201091300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201091300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201091400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201091400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201091500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201091500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201091600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201091600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201091700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201091700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201091800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201091800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201091900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201091900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201092000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201092000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201092100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201092100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201092200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201092200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201092300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201092300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201092400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201100000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201100000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201100000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201100100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201100100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201100200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201100200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201100300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201100300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201100400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201100400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201100500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201100500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201100600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201100600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201100700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201100700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201100800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201100800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201100900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201100900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201101000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201101000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201101100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201101100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201101200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201101200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201101300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201101300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201101400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201101400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201101500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201101500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201101600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201101600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201101700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201101700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201101800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201101800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201101900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201101900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201102000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201102000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201102100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201102100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201102200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201102200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201102300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201102300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201102400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201110000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201110000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201110000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201110100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201110100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201110200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201110200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201110300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201110300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201110400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201110400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201110500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201110500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201110600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201110600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201110700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201110700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201110800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201110800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201110900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201110900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201111000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201111000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201111100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201111100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201111200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201111200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201111300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201111300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201111400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201111400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201111500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201111500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201111600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201111600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201111700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201111700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201111800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201111800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201111900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201111900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201112000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201112000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201112100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201112100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201112200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201112200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201112300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201112300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201112400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201120000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201120000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201120000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201120100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201120100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201120200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201120200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201120300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201120300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201120400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201120400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201120500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201120500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201120600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201120600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201120700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201120700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201120800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201120800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201120900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201120900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201121000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201121000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201121100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201121100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201121200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201121200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201121300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201121300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201121400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201121400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201121500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201121500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201121600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201121600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201121700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201121700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201121800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201121800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201121900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201121900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201122000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201122000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201122100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201122100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201122200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201122200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201122300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201122300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201122400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201130000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201130000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201130000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201130100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201130100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201130200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201130200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201130300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201130300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201130400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201130400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201130500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201130500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201130600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201130600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201130700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201130700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201130800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201130800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201130900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201130900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201131000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201131000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201131100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201131100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201131200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201131200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201131300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201131300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201131400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201131400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201131500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201131500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201131600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201131600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201131700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201131700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201131800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201131800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201131900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201131900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201132000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201132000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201132100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201132100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201132200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201132200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201132300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201132300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201132400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201140000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201140000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201140000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201140100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201140100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201140200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201140200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201140300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201140300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201140400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201140400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201140500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201140500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201140600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201140600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201140700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201140700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201140800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201140800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201140900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201140900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201141000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201141000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201141100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201141100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201141200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201141200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201141300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201141300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201141400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201141400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201141500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201141500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201141600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201141600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201141700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201141700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201141800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201141800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201141900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201141900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201142000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201142000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201142100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201142100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201142200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201142200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201142300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201142300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201142400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201150000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201150000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201150000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201150100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201150100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201150200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201150200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201150300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201150300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201150400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201150400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201150500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201150500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201150600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201150600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201150700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201150700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201150800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201150800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201150900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201150900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201151000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201151000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201151100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201151100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201151200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201151200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201151300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201151300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201151400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201151400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201151500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201151500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201151600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201151600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201151700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201151700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201151800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201151800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201151900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201151900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201152000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201152000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201152100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201152100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201152200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201152200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201152300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201152300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201152400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201160000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201160000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201160000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201160100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201160100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201160200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201160200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201160300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201160300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201160400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201160400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201160500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201160500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201160600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201160600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201160700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201160700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201160800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201160800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201160900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201160900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201161000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201161000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201161100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201161100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201161200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201161200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201161300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201161300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201161400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201161400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201161500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201161500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201161600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201161600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201161700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201161700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201161800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201161800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201161900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201161900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201162000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201162000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201162100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201162100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201162200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201162200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201162300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201162300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201162400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201170000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201170000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201170000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201170100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201170100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201170200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201170200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201170300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201170300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201170400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201170400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201170500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201170500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201170600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201170600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201170700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201170700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201170800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201170800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201170900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201170900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201171000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201171000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201171100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201171100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201171200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201171200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201171300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201171300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201171400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201171400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201171500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201171500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201171600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201171600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201171700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201171700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201171800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201171800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201171900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201171900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201172000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201172000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201172100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201172100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201172200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201172200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201172300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201172300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201172400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201180000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201180000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201180000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201180100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201180100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201180200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201180200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201180300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201180300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201180400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201180400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201180500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201180500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201180600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201180600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201180700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201180700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201180800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201180800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201180900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201180900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201181000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201181000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201181100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201181100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201181200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201181200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201181300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201181300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201181400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201181400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201181500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201181500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201181600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201181600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201181700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201181700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201181800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201181800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201181900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201181900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201182000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201182000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201182100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201182100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201182200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201182200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201182300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201182300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201182400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201190000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201190000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201190000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201190100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201190100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201190200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201190200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201190300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201190300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201190400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201190400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201190500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201190500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201190600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201190600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201190700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201190700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201190800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201190800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201190900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201190900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201191000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201191000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201191100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201191100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201191200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201191200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201191300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201191300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201191400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201191400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201191500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201191500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201191600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201191600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201191700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201191700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201191800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201191800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201191900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201191900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201192000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201192000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201192100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201192100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201192200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201192200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201192300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201192300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201192400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201200000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201200000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201200000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201200100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201200100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201200200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201200200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201200300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201200300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201200400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201200400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201200500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201200500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201200600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201200600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201200700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201200700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201200800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201200800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201200900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201200900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201201000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201201000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201201100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201201100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201201200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201201200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201201300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201201300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201201400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201201400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201201500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201201500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201201600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201201600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201201700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201201700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201201800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201201800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201201900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201201900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201202000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201202000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201202100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201202100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201202200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201202200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201202300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201202300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201202400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201210000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201210000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201210000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201210100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201210100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201210200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201210200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201210300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201210300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201210400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201210400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201210500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201210500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201210600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201210600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201210700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201210700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201210800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201210800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201210900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201210900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201211000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201211000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201211100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201211100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201211200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201211200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201211300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201211300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201211400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201211400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201211500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201211500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201211600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201211600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201211700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201211700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201211800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201211800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201211900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201211900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201212000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201212000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201212100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201212100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201212200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201212200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201212300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201212300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201212400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201220000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201220000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201220000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201220100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201220100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201220200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201220200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201220300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201220300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201220400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201220400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201220500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201220500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201220600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201220600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201220700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201220700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201220800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201220800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201220900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201220900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201221000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201221000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201221100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201221100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201221200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201221200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201221300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201221300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201221400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201221400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201221500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201221500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201221600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201221600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201221700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201221700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201221800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201221800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201221900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201221900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201222000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201222000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201222100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201222100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201222200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201222200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201222300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201222300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201222400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201230000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201230000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201230000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201230100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201230100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201230200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201230200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201230300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201230300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201230400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201230400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201230500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201230500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201230600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201230600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201230700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201230700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201230800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201230800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201230900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201230900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201231000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201231000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201231100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201231100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201231200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201231200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201231300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201231300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201231400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201231400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201231500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201231500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201231600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201231600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201231700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201231700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201231800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201231800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201231900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201231900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201232000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201232000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201232100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201232100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201232200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201232200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201232300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201232300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201232400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201240000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201240000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201240000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201240100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201240100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201240200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201240200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201240300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201240300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201240400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201240400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201240500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201240500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201240600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201240600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201240700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201240700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201240800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201240800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201240900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201240900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201241000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201241000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201241100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201241100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201241200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201241200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201241300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201241300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201241400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201241400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201241500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201241500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201241600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201241600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201241700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201241700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201241800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201241800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201241900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201241900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201242000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201242000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201242100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201242100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201242200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201242200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201242300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201242300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201242400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201250000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201250000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201250000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201250100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201250100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201250200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201250200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201250300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201250300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201250400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201250400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201250500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201250500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201250600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201250600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201250700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201250700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201250800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201250800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201250900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201250900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201251000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201251000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201251100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201251100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201251200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201251200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201251300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201251300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201251400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201251400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201251500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201251500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201251600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201251600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201251700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201251700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201251800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201251800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201251900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201251900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201252000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201252000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201252100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201252100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201252200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201252200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201252300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201252300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201252400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201260000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201260000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201260000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201260100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201260100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201260200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201260200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201260300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201260300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201260400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201260400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201260500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201260500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201260600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201260600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201260700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201260700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201260800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201260800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201260900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201260900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201261000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201261000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201261100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201261100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201261200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201261200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201261300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201261300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201261400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201261400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201261500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201261500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201261600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201261600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201261700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201261700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201261800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201261800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201261900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201261900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201262000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201262000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201262100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201262100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201262200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201262200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201262300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201262300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201262400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201270000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201270000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201270000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201270100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201270100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201270200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201270200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201270300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201270300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201270400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201270400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201270500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201270500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201270600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201270600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201270700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201270700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201270800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201270800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201270900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201270900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201271000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201271000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201271100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201271100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201271200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201271200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201271300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201271300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201271400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201271400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201271500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201271500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201271600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201271600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201271700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201271700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201271800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201271800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201271900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201271900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201272000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201272000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201272100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201272100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201272200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201272200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201272300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201272300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201272400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201280000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201280000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201280000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201280100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201280100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201280200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201280200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201280300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201280300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201280400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201280400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201280500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201280500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201280600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201280600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201280700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201280700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201280800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201280800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201280900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201280900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201281000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201281000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201281100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201281100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201281200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201281200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201281300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201281300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201281400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201281400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201281500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201281500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201281600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201281600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201281700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201281700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201281800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201281800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201281900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201281900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201282000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201282000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201282100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201282100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201282200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201282200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201282300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201282300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201282400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201290000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201290000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201290000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201290100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201290100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201290200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201290200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201290300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201290300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201290400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201290400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201290500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201290500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201290600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201290600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201290700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201290700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201290800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201290800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201290900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201290900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201291000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201291000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201291100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201291100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201291200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201291200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201291300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201291300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201291400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201291400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201291500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201291500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201291600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201291600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201291700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201291700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201291800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201291800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201291900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201291900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201292000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201292000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201292100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201292100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201292200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201292200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201292300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201292300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201292400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201300000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201300000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201300000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201300100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201300100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201300200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201300200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201300300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201300300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201300400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201300400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201300500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201300500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201300600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201300600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201300700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201300700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201300800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201300800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201300900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201300900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201301000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201301000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201301100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201301100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201301200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201301200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201301300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201301300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201301400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201301400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201301500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201301500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201301600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201301600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201301700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201301700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201301800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201301800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201301900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201301900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201302000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201302000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201302100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201302100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201302200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201302200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201302300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201302300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201302400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201310000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201310000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201310000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201310100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201310100.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201310200&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201310200.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201310300&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201310300.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201310400&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201310400.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201310500&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201310500.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201310600&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201310600.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201310700&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201310700.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201310800&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201310800.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201310900&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201310900.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201311000&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+gk2a_ami_le1b_ir096_ko020lc_202201311000.nc saved successfully!
+http://203.247.66.126:8090/url/sat_gk2a_obs_file.php?tm=202201311100&ch=ir096&map=ko&authKey=junhuk1113@naver.com
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
+Requesting url data
+time out, 1sec delaying..
