@@ -1,5 +1,5 @@
 # AIAD_weather2
- gan_LSTM weather predction
+ DCGAN_LSTM weather predction
  ![GAN ex3](https://github.com/Heisnotanimposter/AIAD_weather2/assets/97718938/a6de31af-e27a-4294-ac1f-204054f06e6b)
 ![GAN ex2](https://github.com/Heisnotanimposter/AIAD_weather2/assets/97718938/8cf4c92e-748a-4f3f-88a9-f4f5c1c59cfc)
 ![GAN ex1](https://github.com/Heisnotanimposter/AIAD_weather2/assets/97718938/8fc35dd0-cbce-4444-9334-83f9d927ece6)
@@ -91,4 +91,6 @@ Visualization: Explain the simple_vision, threshold_vision, etc. functions.
 Improvements: Suggest areas for potentially enhancing the model.
 Contact
 
-contact: redcar1024@gmail.com/ github.com/Heisnotanimposter
+version1 contributer: github.com/ https://github.com/junhuk1113
+
+contact: redcar1024@gmail.com/ https://github.com/Heisnotanimposter
