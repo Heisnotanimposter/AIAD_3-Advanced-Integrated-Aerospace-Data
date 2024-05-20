@@ -42,18 +42,18 @@ Clone the repository:
 
 Bash
 git clone https://github.com/<your_username>/<repo_name>
-Use code with caution.
+
 Create a virtual environment (recommended):
 
 Bash
 python3 -m venv weather-gan-env 
 source weather-gan-env/bin/activate 
-Use code with caution.
+
 Install dependencies:
 
 Bash
 pip install -r requirements.txt 
-Use code with caution.
+
 Dataset Setup
 
 Download Dataset (if not included):
@@ -67,12 +67,12 @@ Describe any specific preprocessing scripts or commands.
 Training:
 Bash
 python train.py  # Example command, adjust if necessary
-Use code with caution.
+
 Explain training parameters: epoch count, batch size, etc.
 Generating Predictions:
 Bash
 python generate.py  # Example command, adjust if necessary
-Use code with caution.
+
 How to visualize the output: Describe generated images/visualizations.
 Model Evaluation
 
