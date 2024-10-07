@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>3D Globe Visualization</title>
+    <style>
+        body { margin: 0; overflow: hidden; }
+        #zoomControls {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+        .zoom-button {
+            background: #fff;
+            padding: 10px;
+            margin: 5px;
+            cursor: pointer;
+            font-size: 18px;
+        }
+        #infoOverlay {
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+            background: rgba(255,255,255,0.8);
+            padding: 15px;
+            display: none;
+            max-width: 300px;
+        }
+        #controls {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+        }
+        .control-button {
+            background: #fff;
+            padding: 10px;
+            margin: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div id="zoomControls">
+        <div id="zoomIn" class="zoom-button">+</div>
+        <div id="zoomOut" class="zoom-button">−</div>
+    </div>
+    <div id="controls">
+        <div id="toggleEconomicData" class="control-button">Economic Data</div>
+        <div id="toggleTourismData" class="control-button">Tourism Data</div>
+    </div>
+    <div id="infoOverlay">
+        <h2 id="infoTitle"></h2>
+        <p id="infoContent"></p>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://threejs.org/examples/js/controls/OrbitControls.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
