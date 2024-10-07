@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Climate Change Prediction</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+        #prediction-section img {
+            width: 100%;
+            height: auto;
+        }
+        .w3-teal {
+            background-color: #028482 !important;
+        }
+        .prediction-stats {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body class="w3-light-grey">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+    <!-- The Grid -->
+    <div class="w3-row-padding">
+        <!-- Left Column -->
+        <div class="w3-third">
+            <div class="w3-white w3-text-grey w3-card-4">
+                <div class="w3-display-container">
+                    <img src="cloud_sample.jpg" alt="Prediction" style="width:100%">
+                    <div class="w3-display-bottomleft w3-container w3-text-black">
+                        <h2>Climate Prediction Model</h2>
+                    </div>
+                </div>
+                <div class="w3-container">
+                    <p><i class="fa fa-cogs fa-fw w3-margin-right w3-large w3-text-teal"></i>AI Cloud Prediction Model</p>
+                    <p><i class="fa fa-calendar fa-fw w3-margin-right w3-large w3-text-teal"></i>Real-time Updates</p>
+                    <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>climate@ai-project.com</p>
+                    <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+123 456 7890</p>
+                    <hr>
+                    <p class="w3-large"><b><i class="fa fa-line-chart fa-fw w3-margin-right w3-text-teal"></i>Stats</b></p>
+                    <div class="prediction-stats">
+                        <p>Prediction Accuracy: <span id="accuracy">--</span></p>
+                        <p>Loss: <span id="loss">--</span></p>
+                        <p>Prediction Time (Hour): <span id="predicted-time">--</span></p>
+                    </div>
+                    <br>
+                </div>
+            </div><br>
+        </div>
+        <!-- End Left Column -->
+
+        <!-- Right Column -->
+        <div class="w3-twothird">
+            <!-- Display Prediction Results -->
+            <div class="w3-container w3-card w3-white w3-margin-bottom">
+                <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-cloud fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Prediction Results</h2>
+                <div class="w3-container" id="prediction-section">
+                    <img src="cloud_placeholder.png" alt="Predicted Cloud Image" id="prediction-img">
+                    <p class="w3-opacity">Cloud Shape Prediction for the next 1 to 24 hours and 1 to 30 days.</p>
+                    <button class="w3-button w3-teal" onclick="runPrediction()">Run Prediction</button>
+                </div>
+            </div>
+
+            <!-- Display Visual Data -->
+            <div class="w3-container w3-card w3-white">
+                <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-line-chart fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Visual Data</h2>
+                <div class="w3-container" id="visual-data-section">
+                    <canvas id="loss-chart"></canvas>
+                </div>
+            </div>
+        </div>
+        <!-- End Right Column -->
+    </div>
+    <!-- End Grid -->
+</div>
+<!-- End Page Container -->
+
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+    <p>Connect with us on social media.</p>
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    function runPrediction() {
+        // Placeholder for prediction logic - connect this with your Python backend for real-time predictions
+        document.getElementById('prediction-img').src = 'new_predicted_image.png';
+        document.getElementById('accuracy').textContent = '92%';
+        document.getElementById('loss').textContent = '0.05';
+        document.getElementById('predicted-time').textContent = 'Next 24 hours';
+    }
+
+    // Dummy data for the chart
+    const ctx = document.getElementById('loss-chart').getContext('2d');
+    const chart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: ['Epoch 1', 'Epoch 2', 'Epoch 3', 'Epoch 4', 'Epoch 5'],
+            datasets: [{
+                label: 'Generator Loss',
+                data: [0.5, 0.4, 0.35, 0.3, 0.25],
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2
+            }, {
+                label: 'Discriminator Loss',
+                data: [0.6, 0.55, 0.45, 0.35, 0.2],
+                borderColor: 'rgba(255, 99, 132, 1)',
+                borderWidth: 2
+            }]
+        },
+        options: {
+            responsive: true,
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>
+
+</body>
+</html>
