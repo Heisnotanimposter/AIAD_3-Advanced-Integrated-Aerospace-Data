@@ -1,4 +1,3 @@
-
 import os
 import numpy as np
 import matplotlib.pyplot as plt
@@ -177,4 +176,3 @@ else:
     # Save the models
     Generator.save("Generator.h5")
     Discriminator.save("Discriminator.h5")
-
