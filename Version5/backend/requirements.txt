@@ -1,0 +1,15 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+pydantic==2.6.3
+pydantic-settings==2.2.1
+python-dotenv==1.0.1
+tensorflow==2.15.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+matplotlib==3.8.3
+google-generativeai==0.4.1
+aiohttp==3.9.3
+python-multipart==0.0.9
+redis==5.0.1
+requests==2.31.0
+tqdm==4.66.2
