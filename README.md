@@ -1,30 +1,62 @@
-# Climate Change Prediction with DCGAN
+# 🌍 Advanced Integrated Aerospace Data (AIAD): Weather Platform
 
-This project explores the use of Deep Convolutional Generative Adversarial Networks (DCGANs) to generate synthetic images potentially representative of climate change-related phenomena. The code is based on a Colab notebook and leverages various Python libraries for image processing, video handling, and deep learning.
+Welcome to the AIAD Weather Forecasting project. This repository hosts the complete evolutionary journey of our satellite imagery analysis and weather prediction system, spanning from foundational data preprocessing (Version 1) to our state-of-the-art AI reasoning ecosystem (Version 5).
 
-## Overview
+![Version 5 Dashboard Preview](Version5/frontend/public/favicon.ico) *Placeholder for V5 Screenshot*
 
-The core idea is to train a DCGAN on a dataset of images extracted from a video related to climate change (e.g., images of clouds, carbon emissions, or melting ice). The trained generator can then be used to create new, synthetic images that, ideally, capture some of the visual characteristics of the training data.
+---
 
-**Note:** This project is experimental and the generated images may not be scientifically accurate predictions of future climate states. It serves as a demonstration of using GANs for image generation in a climate change context.
+## 🚀 The AIAD Evolution
 
-## Dependencies
+This project is organized into distinct versions, each representing a significant leap in our technological capabilities.
 
-The following Python libraries are required to run the code:
+### [Phase 1: Version 1 & 2 - The Foundation](./Version2/readme.md)
+*   **Focus:** Data Preprocessing & Initial Generation
+*   **Key Tech:** OpenCV, TensorFlow, basic DCGAN.
+*   **Achievement:** Successfully isolated cloud formations (white regions) from raw satellite video (`resized_KR.mp4`) using HSV thresholding and initiated synthetic frame generation.
 
-*   **General:** pandas, numpy, seaborn, matplotlib
-*   **Path Processing:** os, pathlib, glob
-*   **Image Processing:** PIL (Pillow), keras.preprocessing, cv2 (OpenCV), skimage, imageio
-*   **Scaler & Transformation:** scikit-learn (sklearn), keras.utils
-*   **Accuracy Control:** scikit-learn metrics
-*   **Optimizers:** keras.optimizers
-*   **Model Layers:** tensorflow, keras
-*   **Scikit-learn Classifiers:** xgboost, lightgbm, catboost, sklearn linear models and ensemble methods
-*   google.colab
-*   nibabel
+### [Phase 2: Version 3 - Visual Analytics](./Version3/index.html)
+*   **Focus:** Model Optimization & Visualization
+*   **Key Tech:** Time-series GAN, HTML/CSS/JS.
+*   **Achievement:** Refined the GAN architecture for better time-series continuity (hourly/daily predictions) and introduced a basic web interface to visualize generation loss and accuracy.
 
-You can install the necessary packages using pip:
+### [Phase 3: Version 4 - Enterprise Architecture](./Version4/README.md)
+*   **Focus:** Scalability & Integration
+*   **Key Tech:** FastAPI, React, Docker, SQLite.
+*   **Achievement:** Rebuilt the system into a robust, modern microservices architecture with a dedicated backend API and a scalable frontend framework.
 
-```bash  
-pip install pandas numpy seaborn matplotlib scikit-learn Pillow opencv-python scikit-image imageio tensorflow keras xgboost lightgbm catboost nibabel  
-pip install catboost # you already have this in your notebook  
+### 🌟 [Phase 4: Version 5 - Intelligence Integrated](./Version5/README.md) *(Current Release)*
+*   **Focus:** Multimodal AI Reasoning & Premium UX
+*   **Key Tech:** Google Gemini API, Ant Design, Glassmorphism UI.
+*   **Achievement:** Shifted from merely *generating* images to *understanding* them. Version 5 uses the Gemini API to analyze predicted satellite frames, providing human-readable meteorological insights alongside a stunning, newly designed dashboard.
+
+---
+
+## 🚦 Getting Started
+
+### 1. The Interactive Landing Page
+For a quick overview and interactive environment check, open the Jupyter Notebook at the root of this project:
+```bash
+jupyter notebook Earth_engine.ipynb
+```
+
+### 2. Launching Version 5 (Recommended)
+To run the latest, most powerful version of the platform:
+
+**Prerequisites:** Docker and Docker Compose installed.
+
+```bash
+cd Version5
+docker-compose up -d
+```
+*The platform will be available at `http://localhost:3000`*
+
+---
+
+## 📚 Documentation
+For detailed guides on the architecture, setup, or AI models, please refer to the `README.md` files located within each specific Version directory.
+
+## 🤝 Contributing
+As this represents an evolutionary timeline, contributions are currently focused on **Version 5**. Please see the Version 5 documentation for contribution guidelines.
+
+*AIAD: Shaping the future of aerospace data analysis.*
