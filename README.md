@@ -1,8 +1,8 @@
 # 🌍 Advanced Integrated Aerospace Data (AIAD): Weather Platform
 
-Welcome to the AIAD Weather Forecasting project. This repository hosts the complete evolutionary journey of our satellite imagery analysis and weather prediction system, spanning from foundational data preprocessing (Version 1) to our state-of-the-art AI reasoning ecosystem (Version 5).
+Welcome to the AIAD Weather Forecasting project. This repository hosts the complete evolutionary journey of our satellite imagery analysis and weather prediction system, spanning from foundational data preprocessing (Version 1) to our state-of-the-art global multi-nation AI reasoning ecosystem (Version 6).
 
-![Version 5 Dashboard Preview](Version5/frontend/public/favicon.ico) *Placeholder for V5 Screenshot*
+![Version 6 Dashboard Preview](Version6/frontend/index.html)
 
 ---
 
@@ -25,31 +25,42 @@ This project is organized into distinct versions, each representing a significan
 *   **Key Tech:** FastAPI, React, Docker, SQLite.
 *   **Achievement:** Rebuilt the system into a robust, modern microservices architecture with a dedicated backend API and a scalable frontend framework.
 
-### 🌟 [Phase 4: Version 5 - Intelligence Integrated](./Version5/README.md) *(Current Release)*
+### [Phase 4: Version 5 - Intelligence Integrated](./Version5/README.md)
 *   **Focus:** Multimodal AI Reasoning & Premium UX
 *   **Key Tech:** Google Gemini API, Ant Design, Glassmorphism UI.
-*   **Achievement:** Shifted from merely *generating* images to *understanding* them. Version 5 uses the Gemini API to analyze predicted satellite frames, providing human-readable meteorological insights alongside a stunning, newly designed dashboard.
+*   **Achievement:** Shifted from merely *generating* images to *understanding* them. Version 5 uses the Gemini API to analyze predicted satellite frames, providing human-readable meteorological insights.
+
+### 🌟 [Phase 5: Version 6 - Global Multi-Nation Cloud Intelligence](./Version6/README.md) *(Current Release)*
+*   **Focus:** Worldwide 28 Nations Integration, CSV/JSON Data Engineering, Cloud Form Detection & Time-Series Prediction
+*   **Key Tech:** Multi-National CSV/JSON Pipeline, Cloud Form Classifier (HSV/Optical Depth), Sequence Forecasting (+24h), Google Gemini 1.5, Glassmorphism Dashboard.
+*   **Achievement:** Downloaded and integrated authentic time-series datasets (CSV & JSON) for **28 popular nations worldwide**. Executed cloud form detection and sequence prediction across all 28 nations, backed by interactive visual analytics and full version control.
 
 ---
 
 ## 🚦 Getting Started
 
 ### 1. The Interactive Landing Page
-For a quick overview and interactive environment check, open the Jupyter Notebook at the root of this project:
+For a quick overview and interactive multi-nation environment check, open the Jupyter Notebook at the root of this project:
 ```bash
 jupyter notebook Earth_engine.ipynb
 ```
 
-### 2. Launching Version 5 (Recommended)
-To run the latest, most powerful version of the platform:
+### 2. Launching Version 6 (Flagship Release)
+To run the latest global version of the platform with 28 nations CSV/JSON datasets:
 
 **Prerequisites:** Docker and Docker Compose installed.
 
 ```bash
-cd Version5
+cd Version6
 docker-compose up -d
 ```
-*The platform will be available at `http://localhost:3000`*
+*The platform dashboard will be available at `http://localhost:3000` (Backend API at `http://localhost:8000/docs`)*
+
+### 3. Running Data Pipelines & Predictions directly
+```bash
+python3 Version6/scripts/download_nations_dataset.py
+python3 Version6/scripts/cloud_detector_predictor.py
+```
 
 ---
 
@@ -57,6 +68,6 @@ docker-compose up -d
 For detailed guides on the architecture, setup, or AI models, please refer to the `README.md` files located within each specific Version directory.
 
 ## 🤝 Contributing
-As this represents an evolutionary timeline, contributions are currently focused on **Version 5**. Please see the Version 5 documentation for contribution guidelines.
+Contributions are welcome on **Version 6**. Please see the Version 6 documentation for contribution guidelines.
 
 *AIAD: Shaping the future of aerospace data analysis.*
