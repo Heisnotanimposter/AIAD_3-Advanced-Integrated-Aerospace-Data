@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AIAD V6 - Global Multi-Nation Cloud Detection & Time-Series Prediction</title>
+  <!-- Google Fonts & Chart.js -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="background-globes">
+    <div class="globe globe-1"></div>
+    <div class="globe globe-2"></div>
+    <div class="globe globe-3"></div>
+  </div>
+
+  <header class="navbar">
+    <div class="logo">
+      <span class="logo-icon">🛰️</span>
+      <div class="logo-text">
+        <h1>AIAD <span class="version-badge">Version 6.0</span></h1>
+        <p>Global Multi-Nation Cloud Intelligence Platform</p>
+      </div>
+    </div>
+    <div class="header-controls">
+      <div class="status-chip"><span class="pulse"></span> 28 Nations Datasets Active (CSV/JSON)</div>
+      <button id="batchProcessBtn" class="btn btn-secondary">⚡ Run Batch All 28 Nations</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Nation Selection Bar -->
+    <section class="card glass hero-card">
+      <div class="section-title">
+        <h2>🌐 Select Target Nation (28 Popular Worldwide Nations)</h2>
+        <span class="subtitle">Download, inspect CSV/JSON datasets, and run time-series cloud prediction</span>
+      </div>
+      <div class="nation-selector-grid" id="nationSelectorGrid">
+        <!-- Nation Pills rendered via JS -->
+      </div>
+    </section>
+
+    <!-- Main Dashboard Split -->
+    <div class="dashboard-grid">
+      <!-- Left Panel: Current Detection & Metadata -->
+      <section class="card glass panel-left">
+        <div class="card-header">
+          <h3 id="currentNationTitle">🇰🇷 South Korea (KR)</h3>
+          <div class="badge-group">
+            <span class="badge" id="climateBadge">Temperate Monsoon</span>
+            <span class="badge badge-accent" id="datasetFormatBadge">CSV / JSON Ready</span>
+          </div>
+        </div>
+
+        <div class="detection-box">
+          <div class="detection-main">
+            <div class="form-icon" id="cloudFormIcon">⛅</div>
+            <div class="form-details">
+              <span class="label">Detected Cloud Form</span>
+              <h2 id="detectedCloudForm">Cirrus</h2>
+              <div class="confidence-bar-wrap">
+                <div class="confidence-bar" id="confidenceBar" style="width: 92%"></div>
+              </div>
+              <span class="subtext" id="confidenceText">Confidence: 92.0%</span>
+            </div>
+          </div>
+
+          <div class="metrics-grid">
+            <div class="metric-item">
+              <span class="m-label">Cloud Cover</span>
+              <span class="m-val" id="metricCloudCover">45.2%</span>
+            </div>
+            <div class="metric-item">
+              <span class="m-label">Satellite Reflectance</span>
+              <span class="m-val" id="metricReflectance">0.3420</span>
+            </div>
+            <div class="metric-item">
+              <span class="m-label">Optical Depth</span>
+              <span class="m-val" id="metricOpticalDepth">10.26</span>
+            </div>
+            <div class="metric-item">
+              <span class="m-label">Humidity / Press.</span>
+              <span class="m-val" id="metricHumidityPress">68% / 1012 hPa</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="action-row">
+          <button id="runPredictBtn" class="btn btn-primary">🔮 Execute 24h Time-Series Prediction</button>
+          <a id="downloadCsvLink" class="btn btn-outline" download>📥 Download CSV</a>
+          <a id="downloadJsonLink" class="btn btn-outline" download>📥 Download JSON</a>
+        </div>
+      </section>
+
+      <!-- Right Panel: Time Series Prediction & Charts -->
+      <section class="card glass panel-right">
+        <div class="card-header">
+          <h3>📈 Time Series Forecast (+24 Hours)</h3>
+          <span class="subtitle">Sequence prediction of cloud coverage & form transitions</span>
+        </div>
+        <div class="chart-container">
+          <canvas id="predictionChart"></canvas>
+        </div>
+
+        <!-- AI Reasoning Output -->
+        <div class="ai-reasoning-box">
+          <div class="ai-header">
+            <span>✨ Multimodal Gemini Meteorological Reasoning</span>
+          </div>
+          <div class="ai-body" id="aiReasoningContent">
+            Generating AI analysis...
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- Batch Summary Table -->
+    <section class="card glass summary-section">
+      <div class="card-header">
+        <h3>🌍 28 Popular Nations Dataset & Detection Matrix</h3>
+        <span class="subtitle">Synchronized multi-national cloud form detection & time-series forecast summary</span>
+      </div>
+      <div class="table-wrapper">
+        <table class="data-table" id="nationsSummaryTable">
+          <thead>
+            <tr>
+              <th>Country</th>
+              <th>Code</th>
+              <th>Climate Zone</th>
+              <th>Latest Detection</th>
+              <th>Cloud Cover %</th>
+              <th>24h Forecast Form</th>
+              <th>24h Cloud Cover %</th>
+              <th>Confidence</th>
+              <th>Actions</th>
+            </tr>
+          </thead>
+          <tbody id="summaryTableBody">
+            <!-- Rows dynamically added -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>AIAD Weather Platform (Version 6.0) • Integrated 28 Popular Nations CSV/JSON Datasets • Powered by Time-Series Prediction & Google Gemini</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    container_name: aiad_v6_backend
+    ports:
+      - "8000:8000"
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+    volumes:
+      - ./data:/app/data
+      - ../data:/app/global_data
+    restart: always
+
+  frontend:
+    image: nginx:alpine
+    container_name: aiad_v6_frontend
+    ports:
+      - "3000:80"
+    volumes:
+      - ./frontend:/usr/share/nginx/html:ro
+      - ./data/nations:/usr/share/nginx/html/data/nations:ro
+    depends_on:
+      - backend
+    restart: always
