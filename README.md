@@ -67,7 +67,11 @@ python3 Version6/scripts/cloud_detector_predictor.py
 ## 📚 Documentation
 For detailed guides on the architecture, setup, or AI models, please refer to the `README.md` files located within each specific Version directory.
 
-## 🤝 Contributing
-Contributions are welcome on **Version 6**. Please see the Version 6 documentation for contribution guidelines.
+## 🤝 Contributing & Collaboration
+Contributions and collaborations are welcome on **Version 6**. Please see the Version 6 documentation for contribution guidelines.
+
+### Contributors & Pair Programming
+- [Heisnotanimposter](https://github.com/Heisnotanimposter) — Lead Architecture & AI Pipelines
+- [mighty-Jun](https://github.com/mighty-Jun) — Research & Development Collaboration
 
 *AIAD: Shaping the future of aerospace data analysis.*
